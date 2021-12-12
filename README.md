@@ -2,10 +2,13 @@
 ![pic](https://github.com/techbuterbrod/CV_Lab_02/blob/master/pic.jpg)
 
 # Gray by OpenCv:
-![gray](https://github.com/techbuterbrod/CV_Lab_02/blob/master/grayopencv.png)
+![grayopencv](https://github.com/techbuterbrod/CV_Lab_02/blob/master/grayopencv.png)
 
-# Binary by OpenCv:
-![binaryopencv](https://github.com/techbuterbrod/CV_Lab_02/blob/master/binaryopencv.png)
+# Otsu by OpenCv:
+![otsuopencv](https://github.com/techbuterbrod/CV_Lab_02/blob/master/binaryopencv.png)
 
-# Binary custom:
-![binarycustom](https://github.com/techbuterbrod/CV_Lab_02/blob/master/binarycustom.png)
+# Otsu custom:
+![otsucustom](https://github.com/techbuterbrod/CV_Lab_02/blob/master/binarycustom.png)
+https://github.com/techbuterbrod/CV_Lab_02/blob/master/bradleycustom.png
+# Bradley custom:
+![bradleycustom](https://github.com/techbuterbrod/CV_Lab_02/blob/master/bradleycustom.png)
