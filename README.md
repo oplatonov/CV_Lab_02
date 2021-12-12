@@ -9,6 +9,6 @@
 
 # Otsu custom:
 ![otsucustom](https://github.com/techbuterbrod/CV_Lab_02/blob/master/binarycustom.png)
-https://github.com/techbuterbrod/CV_Lab_02/blob/master/bradleycustom.png
+
 # Bradley custom:
 ![bradleycustom](https://github.com/techbuterbrod/CV_Lab_02/blob/master/bradleycustom.png)
